@@ -8,7 +8,7 @@
 
 A sleek, dark-themed web tool for generating stylish Unicode fonts and copying special symbols — built for creators, designers, and social media enthusiasts.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-6ee7f7?style=flat-square)](https://m41nul.github.io/FontForge)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-6ee7f7?style=flat-square)](https://fontforge-app.netlify.app)
 [![Made by](https://img.shields.io/badge/Made%20by-Md.%20Mainul%20Islam-a78bfa?style=flat-square)](https://github.com/M41NUL)
 [![License](https://img.shields.io/badge/License-MIT-f9a8d4?style=flat-square)](LICENSE)
 
@@ -80,7 +80,7 @@ cd FontForge
 # Open index.html in browser
 ```
 
-Or simply visit the **[Live Demo](https://m41nul.github.io/FontForge)**.
+Or simply visit the **[Live Demo](https://fontforge-app.netlify.app)**.
 
 ---
 
